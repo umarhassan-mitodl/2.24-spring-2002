@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: ''
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -18,12 +16,12 @@ Sclavounos, Paul D. _Responses of Marine Structures to Sea Loads_.
 Textbooks:
 ----------
 
-[![Buy at MIT Press](https://ocwcms.mit.edu/images/mp_logo.gif)](https://mitpress.mit.edu/9780262140263) Newman, J. N. _Marine Hydrodynamics_. Cambridge, MA: MIT Press, 1977. ISBN: 9780262140263.
+{{% resource_link "79961d24-7e18-4fcc-a5f8-9d419e868032" "![Buy at MIT Press](https://ocwcms.mit.edu/images/mp_logo.gif)" %}} Newman, J. N. _Marine Hydrodynamics_. Cambridge, MA: MIT Press, 1977. ISBN: 9780262140263.
 
 Advanced Topics:
 ----------------
 
-[_Readings in Marine Hydrodynamics_](http://web.mit.edu/flowlab/). Volume published in Honor of Professor J. Nicholas Newman.
+{{% resource_link "66cc4027-ad61-440c-9ee0-c123cbc5ec11" "_Readings in Marine Hydrodynamics_" %}}. Volume published in Honor of Professor J. Nicholas Newman.
 
 References:
 -----------

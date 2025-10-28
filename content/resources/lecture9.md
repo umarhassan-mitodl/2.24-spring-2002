@@ -4,8 +4,6 @@ description: Linear Wave-Body Interaction
 file: /courses/2-24-ocean-wave-interaction-with-ships-and-offshore-energy-systems-13-022-spring-2002/f500bf012ed64ef2cb8e6d6f45a21bfd_lecture9.pdf
 file_size: 299406
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

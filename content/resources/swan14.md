@@ -4,8 +4,6 @@ description: ''
 file: /courses/2-24-ocean-wave-interaction-with-ships-and-offshore-energy-systems-13-022-spring-2002/a7ac9d918e162bf2231d34112bee0353_swan14.jpg
 file_size: 27239
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

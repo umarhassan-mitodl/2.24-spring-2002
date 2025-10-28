@@ -4,8 +4,6 @@ description: Quiz 2 2000
 file: /courses/2-24-ocean-wave-interaction-with-ships-and-offshore-energy-systems-13-022-spring-2002/5d8d7863d3d0ab45a0176a012f884116_quiz200probs.pdf
 file_size: 62499
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

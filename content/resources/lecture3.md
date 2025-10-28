@@ -4,8 +4,6 @@ description: Plane Progressive Regular Waves
 file: /courses/2-24-ocean-wave-interaction-with-ships-and-offshore-energy-systems-13-022-spring-2002/806b1b5feede6b9f5bb1d0ced073c820_lecture3.pdf
 file_size: 400712
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

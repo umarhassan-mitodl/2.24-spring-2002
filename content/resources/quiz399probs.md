@@ -4,8 +4,6 @@ description: Quiz 3 1999
 file: /courses/2-24-ocean-wave-interaction-with-ships-and-offshore-energy-systems-13-022-spring-2002/d9411776a20cb73124381f1b888386f9_quiz399probs.pdf
 file_size: 70208
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

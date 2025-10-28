@@ -4,8 +4,6 @@ description: 'Problem Set #7'
 file: /courses/2-24-ocean-wave-interaction-with-ships-and-offshore-energy-systems-13-022-spring-2002/8877b73b1de5ac75ec766794d252b1bd_pset799probs.pdf
 file_size: 48258
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

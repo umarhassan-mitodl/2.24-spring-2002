@@ -5,8 +5,6 @@ description: Added-Mass, Damping Coefficients And Exciting Forces; Exciting Forc
 file: /courses/2-24-ocean-wave-interaction-with-ships-and-offshore-energy-systems-13-022-spring-2002/3f5cfdb4592d65ebcbdf9c09c688d042_lecture10.pdf
 file_size: 693377
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
